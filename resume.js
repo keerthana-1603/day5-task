@@ -4,9 +4,8 @@ console.log(`                Recent IT graduate eager to excel in software devel
 const resumeData = {
     "name": "keerthana",
     //   "email": "keerthanakani27@email.com",
-    //   "phone": "9087487962",
+    //   "phone": "0000055555",
     //   "address": "Tamil nadu,India",
-    // "summary": "Recent IT graduate eager to excel in software development at an IT company.",
         "degree": "Bachelor of Science in Computer Science",
         "name of university": " Madurai KamarajUniversity",
         "graduationYear": 2023,
@@ -40,7 +39,7 @@ const resumeData = {
     "Mother name":"Uma maheswari",
     "Date of Birth":"16/07/2003",
     "email": "keerthanakani27@email.com",
-      "phone": "9087487962",
+      "phone": "0000055555",
       "address": "Tamil nadu,India",
   };
   
